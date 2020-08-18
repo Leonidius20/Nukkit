@@ -17,7 +17,7 @@ public class BlockEntityEnderChest extends BlockEntitySpawnable {
 
     @Override
     public String getName() {
-        return "EnderChest";
+        return "Ender Chest";
     }
 
     @Override
